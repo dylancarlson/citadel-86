@@ -1,17 +1,24 @@
----
-title: 'The Citadel Archive - Citadel-86'
-...
+The Citadel Archive - Citadel-86
+================================
 
 Software: Citadel-86
+
 Author: Hue A. White Jr. (aka Hue Jr.)
+
 Supported: 1984 - At least 1996
+
 Platform: MS-DOS
+
 Language: C
+
 Derived from:
+
 [Citadel](https://github.com/dylancarlson/crt-citadel)
 
 Ancestor of:
+
 [Citadel by Gremlin](https://github.com/dylancarlson/gremcit)
+
 [Citadel:K2NE](https://github.com/dylancarlson/citadelK2NE)
 
 
